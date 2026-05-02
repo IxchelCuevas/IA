@@ -45,10 +45,6 @@ Luego ejecuta el juego:
 ```
 python runner.py
 ```
-Si usas Python 3 explícitamente, también puedes usar:
-```
-python3 runner.py
-```
 Ejemplo de uso
 
 Al iniciar el juego, se puede revelar una celda manualmente o presionar el botón AI Move para que la inteligencia artificial elija una jugada.
