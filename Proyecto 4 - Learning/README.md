@@ -45,7 +45,7 @@ Ejemplo de salida
 
 Una ejecución del programa produjo resultados similares a los siguientes:
 
-```
+```text
 Correct: 4085
 Incorrect: 847
 True Positive Rate: 41.04%
